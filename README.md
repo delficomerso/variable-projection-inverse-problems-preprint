@@ -5,7 +5,7 @@
 This repository corresponds to a preprint based on the work developed for my
 undergraduate thesis (Licenciatura en Ciencias de Datos):
 
-- **D. B. Comerso Salzer**,  
+- **D. B. Comerso Salzer, M. I. Español, and G. Jeronimo**,  
   *Variable Projection Methods for Solving Regularized Separable Inverse Problems with Applications to Semi-Blind Image Deblurring*,  
   arXiv:2601.05224  
   https://arxiv.org/abs/2601.05224
